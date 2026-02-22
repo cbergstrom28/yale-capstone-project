@@ -1,0 +1,31 @@
+Weather and Climate Billion-Dollar Disasters to affect New Mexico from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Hurricane Dolly (July 2008)",Tropical Cyclone,20080723,20080725,1812.2,1267.3,3
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"U.S. Drought (2008)",Drought,20080101,20081231,10514.8,7009.8,0
+"Western Wildfires (Summer-Fall 2009)",Wildfire,20090601,20091130,1477.4,1011.9,10
+"Southwest/Great Plains Drought (2009)",Drought,20090101,20091231,5203.2,3492,0
+"Rockies/Central/East Severe Weather (June 2010)",Severe Storm,20100610,20100615,1306.7,901,2
+"Southern Plains/Southwest Drought and Heat Wave (Spring-Summer 2011)",Drought,20110301,20110831,17109.5,11964.8,95
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,20110601,20111130,2549.1,1820.8,5
+"Rockies/Southwest Severe Weather (June 2012)",Severe Storm,20120606,20120612,3585,2597.8,0
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2399.2,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Western Drought (2014)",Drought,20140101,20141231,5334.8,3951.7,0
+"Texas Tornadoes and Midwest Flooding (December 2015)",Severe Storm,20151226,20151229,2609.3,1961.9,50
+"Colorado Hail Storm and Central Severe Weather (May 2017)",Severe Storm,20170508,20170511,4321.5,3350,0
+"Central and Northeast Severe Weather (May 2018)",Severe Storm,20180501,20180504,1751.3,1390,0
+"Southwest/Southern Plains Drought (Summer-Fall 2018)",Drought,20180601,20181230,3797.4,2990,0
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)",Drought,20200601,20201230,5439.1,4495,45
+"Central Severe Storms (July 2021)",Severe Storm,20210708,20210711,1252.8,1080,0
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10201.9,8431,229
+"Southern and Central Severe Weather (May 2022)",Severe Storm,20220501,20220503,1230.1,1139,1
+"Western Wildfires (Spring-Fall 2022)",Wildfire,20220401,20221130,3327.9,3110,17
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"Southern/Midwestern Drought and Heatwave (Spring-Fall 2023)",Drought,20230401,20230930,14786.7,14082,247
+"New Mexico Wildfires (June 2024)",Wildfire,20240617,20240707,1780,1780,2
+"Southern/Eastern/Northwestern Drought and Heat Wave (2024)",Drought,20240101,20241231,5417,5311,136

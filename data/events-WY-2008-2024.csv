@@ -1,0 +1,26 @@
+Weather and Climate Billion-Dollar Disasters to affect Wyoming from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Midwest Tornadoes and Severe Weather (May 2008)",Severe Storm,20080522,20080527,4423.1,3029.5,13
+"Rockies and Midwest Derecho (July 10-11, 2011)",Severe Storm,20110710,20110711,1729.1,1235,2
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2399.2,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Rockies/Central Plains Severe Weather (June 2014)",Severe Storm,20140603,20140605,2533.4,1919.2,2
+"Western and Alaskan Wildfires (Summer-Fall 2015)",Wildfire,20150601,20151130,3996.9,3028,12
+"Rockies and Northeast Severe Weather (July 2016)",Severe Storm,20160728,20160730,1920,1465.6,0
+"Western/Southeast Wildfires (Summer-Fall 2016)",Wildfire,20160601,20161231,3137.5,2395,21
+"Midwest Severe Weather (June 2017)",Severe Storm,20170612,20170616,1946.7,1509,0
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,20170601,20171231,23226.5,18005,54
+"Mountain West Severe Weather (July 2018)",Severe Storm,20180726,20180729,1063.8,851,0
+"Rockies and Plains Hail Storms (August 2018)",Severe Storm,20180806,20180807,1281.4,1025,0
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,20180601,20181231,30000,24000,106
+"Rockies, Central and Northeast Tornadoes and Severe Weather (May 2019)",Severe Storm,20190526,20190529,5655.6,4598,3
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)",Drought,20200601,20201230,5439.1,4495,45
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10201.9,8431,229
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"Rockies Hail Storms and Central and Eastern Severe Weather (June 2023)",Severe Storm,20230621,20230626,5453.9,5244,8
+"Central Severe Weather (June 2023)",Severe Storm,20230628,20230702,1976.8,1919,3
+"Southern/Eastern/Northwestern Drought and Heat Wave (2024)",Drought,20240101,20241231,5417,5311,136

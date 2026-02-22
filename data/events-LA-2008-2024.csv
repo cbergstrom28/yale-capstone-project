@@ -1,0 +1,64 @@
+Weather and Climate Billion-Dollar Disasters to affect Louisiana from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Hurricane Gustav (September 2008)",Tropical Cyclone,20080831,20080903,8635.7,5997,53
+"Hurricane Ike (September 2008)",Tropical Cyclone,20080912,20080914,43198.4,29998.8,112
+"Midwest/Southeast Tornadoes (March 2009)",Severe Storm,20090325,20090328,2427.9,1640.5,0
+"Southwest/Great Plains Drought (2009)",Drought,20090101,20091231,5203.2,3492,0
+"Southeast/Ohio Valley/Midwest Tornadoes (April 2011)",Severe Storm,20110425,20110428,14310.7,10222,321
+"Mississippi River flooding (April-May 2011)",Flooding,20110401,20110531,4270.1,2986,7
+"Southern Plains/Southwest Drought and Heat Wave (Spring-Summer 2011)",Drought,20110301,20110831,17109.5,11964.8,95
+"Tropical Storm Lee (September 2011)",Tropical Cyclone,20110901,20110905,3492.4,2512.5,21
+"Hurricane Isaac (August 2012)",Tropical Cyclone,20120826,20120831,3786.1,2763.5,9
+"Southern Severe Weather (February 2013)",Severe Storm,20130224,20130225,1253.9,922,1
+"South/Southeast Severe Weather (April 2015)",Severe Storm,20150418,20150420,1707.6,1283.9,0
+"South and Southeast Severe Weather (April 2015)",Severe Storm,20150424,20150425,1255.8,944,3
+"Texas and Oklahoma Flooding and Severe Weather (May 2015)",Flooding,20150523,20150526,3375.6,2500.4,31
+"Southeast and Eastern Tornadoes (February 2016)",Severe Storm,20160222,20160224,1383.5,1040,10
+"Texas and Louisiana Flooding (March 2016)",Flooding,20160308,20160312,3052.1,2294.8,5
+"Southern Severe Weather (March 2016)",Severe Storm,20160317,20160318,1609.8,1210.3,1
+"Louisiana Flooding (August 2016)",Flooding,20160812,20160815,13300,10000,13
+"Southern Tornado Outbreak and Western Storms (January 2017)",Severe Storm,20170120,20170122,1436.5,1105,24
+"Missouri and Arkansas Flooding and Central Severe Weather (May 2017)",Flooding,20170425,20170507,2156.7,1659,20
+"Hurricane Harvey (August 2017)",Tropical Cyclone,20170825,20170831,160000,125000,89
+"Southeastern Tornadoes and Severe Weather (March 2018)",Severe Storm,20180318,20180321,1844.1,1452,0
+"Southern and Eastern Tornadoes and Severe Weather (April 2018)",Severe Storm,20180413,20180416,1660.7,1318,3
+"Southern and Eastern Tornadoes and Severe Weather (April 2019)",Severe Storm,20190413,20190414,1552.5,1252,7
+"South and Southeast Severe Weather (May 2019)",Severe Storm,20190507,20190513,1862.4,1514,0
+"Mississippi River, Midwest and Southern Flooding (July 2019)",Flooding,20190315,20190731,7649.6,6169,4
+"Tropical Storm Imelda (September 2019)",Tropical Cyclone,20190917,20190921,6150,5000,5
+"Texas Tornadoes and Central Severe Weather (October 2019)",Severe Storm,20191020,20191020,2113.1,1718,2
+"Southeast Tornadoes and Northern Storms and Flooding (January 2020)",Severe Storm,20200110,20200112,1401.8,1149,10
+"South, East and Northeast Severe Weather (February 2020)",Severe Storm,20200205,20200207,1532.2,1256,3
+"Southeast and Eastern Tornado Outbreak (April 2020)",Severe Storm,20200412,20200413,4236.2,3444,35
+"Southern Severe Weather (April 2020)",Severe Storm,20200421,20200423,1660.6,1350,3
+"Central, Southern and Eastern Severe Weather (April 2020)",Severe Storm,20200427,20200430,1263.3,1027,1
+"Hurricane Laura (August 2020)",Tropical Cyclone,20200827,20200828,28090.3,23215,42
+"Hurricane Sally (September 2020)",Tropical Cyclone,20200915,20200917,8801.5,7274,5
+"Hurricane Delta (October 2020)",Tropical Cyclone,20201009,20201011,3469.3,2867,5
+"Hurricane Zeta (October 2020)",Tropical Cyclone,20201028,20201029,5266,4352,6
+"Northwest, Central, Eastern Winter Storm and Cold Wave (February 2021)",Winter Storm,20210210,20210219,27223.2,22686,262
+"Southern Tornadoes and Southeast Severe Weather (May 2021)",Severe Storm,20210502,20210504,1479.1,1264,4
+"Louisiana Flooding (May 2021)",Flooding,20210517,20210518,1569.6,1319,5
+"Hurricane Ida (August 2021)",Tropical Cyclone,20210829,20210901,84608.1,73572,96
+"Hurricane Nicholas (September 2021)",Tropical Cyclone,20210914,20210918,1168.5,1016,0
+"Southern Tornado Outbreak (March 2022)",Severe Storm,20220330,20220330,1381.6,1256,2
+"Southeast Tornado Outbreak (April 2022)",Severe Storm,20220404,20220406,1544.8,1417,3
+"Southern Severe Weather (April 2022)",Severe Storm,20220411,20220413,2915.7,2675,1
+"Central and Eastern Winter Storm and Cold Wave (December 2022)",Winter Storm,20221221,20221226,8951.7,8445,87
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"Southern and Eastern Severe Weather (April 2023)",Severe Storm,20230324,20230326,2956,2815,23
+"Central and Southern Severe Weather (April 2023)",Severe Storm,20230415,20230415,1401.9,1335,0
+"Southern Severe Weather (June 2023)",Severe Storm,20230611,20230614,4193.2,4032,0
+"Central and Southern Severe Weather (June 2023)",Severe Storm,20230615,20230618,3918.7,3768,5
+"Southern/Midwestern Drought and Heatwave (Spring-Fall 2023)",Drought,20230401,20230930,14786.7,14082,247
+"Southern Tornado Outbreak and East Coast Storm (January 2024)",Severe Storm,20240108,20240110,2780.2,2726,3
+"Southern Severe Weather (February 2024)",Severe Storm,20240210,20240212,1072,1051,0
+"Southern and Eastern Severe Weather (April 2024)",Severe Storm,20240408,20240411,2725.1,2698,0
+"Central and Southern Tornado Outbreak (April 2024)",Severe Storm,20240426,20240428,1697.8,1681,3
+"Southern Severe Weather (May 2024)",Severe Storm,20240511,20240513,1124,1124,1
+"Southern Derecho (May 2024)",Severe Storm,20240516,20240517,1551,1551,8
+"Central, Southern, Eastern Severe Weather (May 2024)",Severe Storm,20240518,20240522,4907.8,4859,5
+"Hurricane Beryl (July 2024)",Tropical Cyclone,20240708,20240708,7219,7219,46
+"Hurricane Francine (September 2024)",Tropical Cyclone,20240911,20240912,1291,1291,0
+"Southern/Eastern/Northwestern Drought and Heat Wave (2024)",Drought,20240101,20241231,5417,5311,136

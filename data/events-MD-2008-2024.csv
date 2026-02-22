@@ -1,0 +1,60 @@
+Weather and Climate Billion-Dollar Disasters to affect Maryland from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"U.S. Drought (2008)",Drought,20080101,20081231,10514.8,7009.8,0
+"Southeast/Ohio Valley Severe Weather (February 2009)",Severe Storm,20090210,20090211,2592.9,1740.2,10
+"Northeast Winter Storm (February 2010)",Winter Storm,20100209,20100211,1192.8,817,3
+"Oklahoma, Kansas, and Texas Tornadoes and Severe Weather (May 2010)",Severe Storm,20100510,20100512,4834,3333.8,3
+"Midwest/Northeast Severe Storms and Flooding (July 2010)",Severe Storm,20100720,20100723,1375.1,948.3,0
+"Hurricane Irene (August 2011)",Tropical Cyclone,20110826,20110828,18756.7,13494,45
+"Southern Plains/Southwest Drought and Heat Wave (Spring-Summer 2011)",Drought,20110301,20110831,17109.5,11964.8,95
+"Tropical Storm Lee (September 2011)",Tropical Cyclone,20110901,20110905,3492.4,2512.5,21
+"Plains/East/Northeast Derecho (June-July 2012)",Severe Storm,20120629,20120702,3986,2888.4,28
+"Hurricane Sandy (October 2012)",Tropical Cyclone,20121030,20121031,88453.9,65039.6,159
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Midwest/Southeast/Northeast Winter Storm (January 2014)",Winter Storm,20140105,20140108,2933.4,2172.7,16
+"Midwest/Southeast/Northeast Tornadoes and Flooding (April 2014)",Severe Storm,20140427,20140501,2309.2,1736.1,33
+"Michigan and Northeast Flooding (August 2014)",Flooding,20140811,20140813,1361.9,1031.7,2
+"Central and Eastern Winter storm, Cold Wave (February 2015)",Winter Storm,20150214,20150220,3969.3,2962.1,30
+"Central and Northeast Severe Weather (June 2015)",Severe Storm,20150621,20150625,1547.1,1172,1
+"South Carolina and East Coast Flooding (October 2015)",Flooding,20151001,20151005,2657.6,1998.2,25
+"Southeast and Eastern Tornadoes (February 2016)",Severe Storm,20160222,20160224,1383.5,1040,10
+"South/Southeast Tornadoes (April 2016)",Severe Storm,20160426,20160502,3160.8,2394.5,6
+"Rockies and Northeast Severe Weather (July 2016)",Severe Storm,20160728,20160730,1920,1465.6,0
+"Central/Southeast Tornado Outbreak (March 2017)",Severe Storm,20170228,20170301,2347.8,1806,6
+"Southeast Severe Weather and Tornadoes (April 2017)",Severe Storm,20170404,20170406,1259.2,976,1
+"Central and Eastern Winter Storm (January 2018)",Winter Storm,20180103,20180105,1324.6,1043,22
+"Northeast Winter Storm (March 2018)",Winter Storm,20180301,20180303,2786.4,2194,9
+"Southern and Eastern Tornadoes and Severe Weather (April 2018)",Severe Storm,20180413,20180416,1660.7,1318,3
+"Central and Eastern Severe Weather (May 2018)",Severe Storm,20180513,20180515,1726.2,1370,5
+"Central and Eastern Tornadoes and Severe Weather (July 2018)",Severe Storm,20180719,20180722,1981.6,1585,0
+"Hurricane Michael (October 2018)",Tropical Cyclone,20181010,20181011,31218.8,24975,49
+"Southeast, Ohio Valley and Northeast Severe Weather (February 2019)",Severe Storm,20190223,20190225,1547.2,1237.5,2
+"South, East and Northeast Severe Weather (February 2020)",Severe Storm,20200205,20200207,1532.2,1256,3
+"North Central and Ohio Valley Hail Storms and Severe Weather (April 2020)",Severe Storm,20200407,20200408,3543.9,2881,0
+"Southeast and Eastern Tornado Outbreak (April 2020)",Severe Storm,20200412,20200413,4236.2,3444,35
+"Central, Southern and Eastern Severe Weather (April 2020)",Severe Storm,20200427,20200430,1263.3,1027,1
+"Hurricane Isaias (August 2020)",Tropical Cyclone,20200803,20200804,5756.1,4757,16
+"Eastern Severe Weather (March 2021)",Severe Storm,20210327,20210328,1601.9,1346,8
+"Tropical Storm Elsa (July 2021)",Tropical Cyclone,20210707,20210709,1407.1,1213,1
+"North Central Severe Weather (August 2021)",Severe Storm,20210810,20210813,1489.5,1284,2
+"Tropical Storm Fred (August 2021)",Tropical Cyclone,20210816,20210818,1481.3,1277,7
+"Hurricane Ida (August 2021)",Tropical Cyclone,20210829,20210901,84608.1,73572,96
+"Southern Tornado Outbreak (March 2022)",Severe Storm,20220330,20220330,1381.6,1256,2
+"Southeast Tornado Outbreak (April 2022)",Severe Storm,20220404,20220406,1544.8,1417,3
+"North Central and Eastern Severe Weather (July 2022)",Severe Storm,20220722,20220724,1433.8,1340,1
+"Central and Eastern Winter Storm and Cold Wave (December 2022)",Winter Storm,20221221,20221226,8951.7,8445,87
+"Central Tornado Outbreak and Eastern Severe Weather (March 2023)",Severe Storm,20230331,20230401,5909.8,5628,33
+"Central and Eastern Severe Weather (April 2023)",Severe Storm,20230404,20230406,2956.1,2815,5
+"Rockies Hail Storms and Central and Eastern Severe Weather (June 2023)",Severe Storm,20230621,20230626,5453.9,5244,8
+"North Central and Eastern Severe Weather (July 2023)",Severe Storm,20230728,20230729,1526.6,1482,2
+"Northeastern and Eastern Severe Weather (August 2023)",Severe Storm,20230805,20230808,1680.2,1631,4
+"East Coast Storm and Flooding (December 2023)",Flooding,20231216,20231218,1314.4,1276,5
+"Southern Tornado Outbreak and East Coast Storm (January 2024)",Severe Storm,20240108,20240110,2780.2,2726,3
+"Central, Southern, Northeastern Winter Storm and Cold Wave (January 2024)",Winter Storm,20240114,20240118,1948.3,1910,41
+"Central Tornado Outbreak and Eastern Severe Weather (April 2024)",Severe Storm,20240401,20240403,2465.5,2441,3
+"Central, Southern, Eastern Severe Weather (May 2024)",Severe Storm,20240518,20240522,4907.8,4859,5
+"Central and Northeast Severe Weather (June 2024)",Severe Storm,20240624,20240626,1704,1704,3
+"Central and Eastern Tornado Outbreak and Severe Weather (July 2024)",Severe Storm,20240713,20240716,2435,2435,2
+"Hurricane Debby (August 2024)",Tropical Cyclone,20240805,20240809,2476,2476,17
+"Southern/Eastern/Northwestern Drought and Heat Wave (2024)",Drought,20240101,20241231,5417,5311,136

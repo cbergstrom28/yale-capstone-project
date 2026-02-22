@@ -1,0 +1,20 @@
+Weather and Climate Billion-Dollar Disasters to affect Nevada from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,20110601,20111130,2549.1,1820.8,5
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2399.2,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Western Drought (2014)",Drought,20140101,20141231,5334.8,3951.7,0
+"Western Drought (2015)",Drought,20150101,20151231,6029.3,4466,0
+"Western/Southeast Wildfires (Summer-Fall 2016)",Wildfire,20160601,20161231,3137.5,2395,21
+"West/Northeast/Southeast Drought (2016)",Drought,20160101,20161231,4580,3443.5,0
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,20170601,20171231,23226.5,18005,54
+"Southwest/Southern Plains Drought (Summer-Fall 2018)",Drought,20180601,20181230,3797.4,2990,0
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)",Drought,20200601,20201230,5439.1,4495,45
+"Northwest, Central, Eastern Winter Storm and Cold Wave (February 2021)",Winter Storm,20210210,20210219,27223.2,22686,262
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10201.9,8431,229
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136

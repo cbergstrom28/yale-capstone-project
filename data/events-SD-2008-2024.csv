@@ -1,0 +1,24 @@
+Weather and Climate Billion-Dollar Disasters to affect South Dakota from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Missouri River flooding (May-June 2011)",Flooding,20110501,20110630,2863.3,2002.3,5
+"Midwest/Southeast Severe Weather (August 17-18, 2011)",Severe Storm,20110817,20110818,1600.4,1151.4,0
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2399.2,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Rockies/Central Plains Severe Weather (June 2014)",Severe Storm,20140603,20140605,2533.4,1919.2,2
+"Southern Plains Tornadoes (May 2015)",Severe Storm,20150506,20150510,1691.9,1272.1,4
+"Central and Northeast Severe Weather (June 2015)",Severe Storm,20150621,20150625,1547.1,1172,1
+"North Dakota, South Dakota and Montana Drought (Spring-Fall 2017)",Drought,20170301,20171231,3250,2500,0
+"Missouri River and North Central Flooding (March 2019)",Flooding,20190314,20190331,13408.9,10727,3
+"Central Severe Weather (July 2020)",Severe Storm,20200710,20200711,1459.1,1196,0
+"Central Severe Weather - Derecho (August 2020)",Severe Storm,20200810,20200810,13452.9,11027,4
+"Central Severe Storms (July 2021)",Severe Storm,20210708,20210711,1252.8,1080,0
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10201.9,8431,229
+"North Central Severe Weather (May 2022)",Severe Storm,20220511,20220512,2949.6,2706,1
+"Central Derecho (June 2022)",Severe Storm,20220613,20220613,3418.6,3195,1
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"Southern/Midwestern Drought and Heatwave (Spring-Fall 2023)",Drought,20230401,20230930,14786.7,14082,247
+"Central and Eastern Severe Weather (June 2024)",Severe Storm,20240612,20240614,1228,1228,0
+"Upper Midwest Flooding (June 2024)",Flooding,20240616,20240623,1113,1113,4
+"Central and Northeast Severe Weather (June 2024)",Severe Storm,20240624,20240626,1704,1704,3

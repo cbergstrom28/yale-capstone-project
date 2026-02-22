@@ -1,0 +1,30 @@
+Weather and Climate Billion-Dollar Disasters to affect California from 2008-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Western, Central and Northeast Severe Weather (January 2008)",Severe Storm,20080104,20080109,1473,982,12
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"U.S. Drought (2008)",Drought,20080101,20081231,10514.8,7009.8,0
+"Western Wildfires (Summer-Fall 2009)",Wildfire,20090601,20091130,1477.4,1011.9,10
+"Southwest/Great Plains Drought (2009)",Drought,20090101,20091231,5203.2,3492,0
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2399.2,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Western Drought (2014)",Drought,20140101,20141231,5334.8,3951.7,0
+"Western and Alaskan Wildfires (Summer-Fall 2015)",Wildfire,20150601,20151130,3996.9,3028,12
+"Western Drought (2015)",Drought,20150101,20151231,6029.3,4466,0
+"Western/Southeast Wildfires (Summer-Fall 2016)",Wildfire,20160601,20161231,3137.5,2395,21
+"West/Northeast/Southeast Drought (2016)",Drought,20160101,20161231,4580,3443.5,0
+"Southern Tornado Outbreak and Western Storms (January 2017)",Severe Storm,20170120,20170122,1436.5,1105,24
+"California Flooding (February 2017)",Flooding,20170208,20170222,1950,1500,5
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,20170601,20171231,23226.5,18005,54
+"Southwest/Southern Plains Drought (Summer-Fall 2018)",Drought,20180601,20181230,3797.4,2990,0
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,20180601,20181231,30000,24000,106
+"California and Alaska Wildfires (Summer-Fall 2019)",Wildfire,20190601,20191130,5535,4500,3
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)",Drought,20200601,20201230,5439.1,4495,45
+"California Flooding and Severe Weather (January 2021)",Flooding,20210124,20210129,1325,1095,2
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10201.9,8431,229
+"Western Wildfires (Spring-Fall 2022)",Wildfire,20220401,20221130,3327.9,3110,17
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"California Flooding (December 2022 - March 2023)",Flooding,20221226,20230319,4725,4500,22
